@@ -9,4 +9,4 @@ while True:
     elif command in ("exit", "quit"):
         break
     else:
-        print(f"Unknown command: {command}")
+        print(f"there's no limit to the larp")
